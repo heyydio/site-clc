@@ -1,0 +1,34 @@
+.box-logo img{
+    width: 400px;
+  }
+  
+  div.principal{
+    background-color: #E3635D;
+ }
+
+   div.box-menu{
+    background-color: #AE3434;
+   }
+
+  .box-rodape{
+      padding: 50px 20px;
+      color: black;
+      
+  }
+  
+  .back-rodape{
+      background-color: #AE3434;
+  }
+  
+  .box-curso{
+      padding: 50px 20px;
+      color: black;
+  }
+  
+  div.container{
+      background-color: #E3635D;
+  }
+  
+  .barra-de-pesquisa{
+      float: right;
+  }
